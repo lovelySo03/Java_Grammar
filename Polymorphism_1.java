@@ -28,7 +28,7 @@ class Cat extends Animal {
     }
 }
 
-public class PolymorphismExample {
+public class Polymorphism_1 {
     public static void main(String[] args) {
         Animal animal1 = new Dog();  // 다형성
         Animal animal2 = new Cat();  // 다형성
